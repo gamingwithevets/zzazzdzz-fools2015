@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!-- Yep, it's April Fools. Reading the source code will ruin the surprise. Continue at your own risk. -->
+<meta charset='utf-8'>
+<style>
+    body { text-align:center; font-family:verdana, sans-serif; padding:0; margin:0; }
+    h1 { font-size: 25px; margin:6px; }
+    h2 { font-size: 19px; margin:6px; font-weight: normal; }
+    #flavor { margin-top: 25px; font-size: 12px; }
+    #main { position:absolute;width:100%;height:100%;top:0;left:0; }
+    #download_window { padding:10px; border: 1px solid black; outline: 3px solid #ccc; width:600px; background: #ffa; }
+    #header { border-bottom:1px dashed black;padding-bottom:5px; }
+    input[type=button] { font-weight:bold; }
+    a { color:blue; }
+</style>
+
+<table id='main'><tr><td><center>
+    <div id='download_window'>
+        <div id='header'>
+            <h1>ZZAZZ&trade;&reg; Super&trade; Epic&trade; Downloader&trade;&reg;</h1>
+            <h2>Downloading <i>totallynotavirus.exe</i> (1.337 MB)</h1>
+        </div>
+        <p id="flavor">
+            <noscript>Please enable JavaScript to download this file! Trust me, I'm a dolphin.<br><br></noscript>
+            <input type='button' onclick='download(0,1000)' value='Click to begin your download...'>
+        </p>
+    </div>
+</center></td></tr></table>
+
+<script>
+    FLAVOR = [
+    
+    "<b>Would you like to upgrade to premium membership?</b><br>For only $1395009.99 you will be able to access extended functions for 3 <s>milli</s>seconds!<br><br><input type='button' value='Yes' onclick='download(1,1500)'>&nbsp;&nbsp;<input type='button' value='No' onclick='download(2,1500)'>",
+    
+    "What? I'm fairly sure you can't afford it.<br>You suck. Click OK to continue.<br><br><input type='button' value='OK' onclick='download(2,1100)'>",
+    
+    "This type of file may harm your computer. Are you sure you want to download it?<br><br><input type='button' value='Yes' onclick='download(3,2200)'>&nbsp;&nbsp;<input type='button' value='Yes' onclick='download(3,2200)'>",
+    
+    "Error 192+8&pi; - not enough RAM.<br>Please <a href='http://downloadmoreram.com' target='_blank'>download more RAM</a> to continue.<br>Click 'Continue' once your RAM finishes downloading.<br><br><input type='button' value='Continue downloading' onclick='download(4,2100)'>",
+    
+    "A friendly reminder: you can upgrade to premium membership for just $1395009.99!<br><br><input type='button' value='Yes' onclick='download(5,2100)'>&nbsp;&nbsp;<input type='button' value='No' onclick='download(6,2200)'>",
+    
+    "No, you definitely can't afford it.<br><br><input type='button' value='OK' onclick='download(6,1800)'>",
+    
+    "Not ready reading drive A.<br><br>Abort, Retry, Fail?<br><br><input type='button' value='Abort' onclick='download(7,2200)'>&nbsp;&nbsp;<input type='button' value='Retry' onclick='download(6,1400)'>&nbsp;&nbsp;<input type='button' value='Fail' onclick='download(7,2200)'>",
+    
+    "<b>No premium user. Please enter:</b><br><br><img src='http://latex.codecogs.com/png.latex?%5Csmall%20%5Clim_%7Bn%5Cto%5Cinfty%7D%5Cfrac%7B7%7D%7B2%5En%20&plus;%208%5En%7D'><br><br>Solution: <input type='text' id='challenge' style='width:30px;text-align:center' maxlength='2'><br><br><input type='button' value='Download via Teleglobe' onclick='download(parseInt(get(/challenge/.source).value)==0 ? 9 : 8,2200)'>",
+    
+    "The solution you entered is incorrect.<br><br><input type='button' value='Try again' onclick='download(7,1100)'>",
+    
+    "Please complete a quick survey below before downloading!<br><br><div style='margin:5px'><a href='http://eelslap.com' target='_blank'>Need a virus on your computer? Download your free virus here!</a></div><div style='margin:5px'><a href='http://rainymood.com' target='_blank'>Your phone bills are too low? Here's yet another Premium SMS scam</a></div><div style='margin:5px'><a href='http://nooooooooooooooo.com' target='_blank'>Yet another Nigerian prince needs your help!</a></div><br><br><input type='button' value='Continue downloading' onclick='download(10,2100)'>",
+    
+    "For just $1395009.99 you can upgrade to premium membership!<br><br><input type='button' value='Yes' onclick='download(11,2100)'>&nbsp;&nbsp;<input type='button' value='No' onclick='download(12,2200)'>",
+    
+    "Admit it, you can't afford it.<br><br><input type='button' value='OK' onclick='download(12,1800)'>",
+    
+    "You need to be over 18 years old to download this file.<br><br><input type='button' value='Continue' onclick='download(13,2500)'>&nbsp;&nbsp;<input type='button' value='Cancel' onclick='window.close()'>",
+    
+    "An error occured: code 21<br>Reason: MISSINGNO. is taking over the worl?&block;9&raquo;&eacute;D&block;1 ERROR.<br><br><input type='button' value='Retry' onclick='download(14,2500)'>",
+    
+    "An error occured: code 75<br>Reason: Splines were not properly reticulated. Please try again.<br><br><input type='button' value='Retry' onclick='download(15,2500)'>",
+    
+    "Guess what? No error occured!<br><br><input type='button' onclick='end()' value='Click here to download your file NOW'>"]
+
+    function get(x){
+        return document.getElementById(x);
+    }
+    function download(id,timeout){
+        get('flavor').innerHTML = "<img src='http://www.geni.com/images/loading_bar.gif'><br><br><i>Preparing your download...</i>";
+        setTimeout("get('flavor').innerHTML=FLAVOR["+id+"]", timeout);
+    }
+    function end(){
+        window.location = 'http://www.youtube.com/watch?v=dQw4w9WgXcQ';
+    }
+</script>
+<!-- Maybe you're wondering what will be my next video about?
+     Hint: The topic starts with 'Coin' and ends with 'Case'. -->
