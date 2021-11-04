@@ -9,4 +9,4 @@ I, GamingWithEvets™, am a big fan of this channel and maybe cool Pokémon glit
 I host this "downloader" on both Google Sites and GitHub Pages.
 
 Google Sites page: [sites.google.com/view/zzazzdzz-fools2015](https://sites.google.com/view/zzazzdzz-fools2015)
-GitHub version (downloader only): N/A
+GitHub version (downloader only): [gamingwithevets.github.io/zzazzdzz-fools2015/shinymewdownload.htm](https://gamingwithevets.github.io/zzazzdzz-fools2015/shinymewdownload.htm)
