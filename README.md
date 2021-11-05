@@ -7,7 +7,7 @@ It's April 1, 2015, and YouTuber [TheZZAZZGlitch](https://www.youtube.com/channe
 
 The website was hosted through Google Drive. Unfortunately, only four months later, Google stopped support for web hosting, and so, every website that was hosted with Google Drive stopped being hosted, including TheZZAZZGlitch's *downloader*.
 
-I, GamingWithEvets™, am a big fan of this channel and maybe cool Pokémon glitches in general, and seeing a piece of history fade away makes me sad. So I'm hosting TheZZAZZGlitch's long lost Super Epic Downloader, 6 years later.
+I, GamingWithEvets™, am a big fan of this channel and maybe cool Pokémon glitches in general, and seeing a piece of history fade away makes me sad. So I'm hosting TheZZAZZGlitch's long lost *ZZAZZ™® Super™ Epic™ Downloader™®*, 6 years later.
 
 # Where can I visit this lovely "downloader"?
 I host this *downloader* on both Google Sites and GitHub Pages.
