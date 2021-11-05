@@ -1,3 +1,7 @@
+# Basic info
+This is a very legit downloader that downloads an application that can give you a shiny Mew in Pokémon X and Y.
+Amazing! Right...?
+
 # The story
 It's April 1, 2015, and YouTuber [TheZZAZZGlitch](https://www.youtube.com/channel/UCKlA7qF9XKwu79ULYmVu28w) made [a new video on how to get a shiny Mew in Pokémon X and Y](https://www.youtube.com/watch?v=ECrY7Dd_F0E). He put a link to a "very trustworthy" website that would download the tool... or would it...?
 
@@ -8,6 +12,5 @@ I, GamingWithEvets™, am a big fan of this channel and maybe cool Pokémon glit
 # Where can I visit this lovely "downloader"?
 I host this "downloader" on both Google Sites and GitHub Pages.
 
-Google Sites page: [sites.google.com/view/zzazzdzz-fools2015](https://sites.google.com/view/zzazzdzz-fools2015)
-
+Google Sites page: [sites.google.com/view/zzazzdzz-fools2015](https://sites.google.com/view/zzazzdzz-fools2015)  
 GitHub version (downloader only): [gamingwithevets.github.io/zzazzdzz-fools2015/shinymewdownload.htm](https://gamingwithevets.github.io/zzazzdzz-fools2015/shinymewdownload.htm)
