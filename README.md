@@ -1,5 +1,5 @@
 # Basic info
-This is a very legit downloader that downloads an application that can give you a shiny Mew in Pokémon X and Y.
+This is a very legit downloader that downloads an application that can give you a shiny Mew in Pokémon X and Y.  
 Amazing! Right...?
 
 # The story
