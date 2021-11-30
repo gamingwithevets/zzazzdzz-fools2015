@@ -10,7 +10,7 @@ The website was hosted through Google Drive. Unfortunately, only four months lat
 I, GamingWithEvets™, am a big fan of this channel and maybe cool Pokémon glitches in general, and seeing a piece of history fade away makes me sad. So I'm hosting TheZZAZZGlitch's long lost *ZZAZZ™® Super™ Epic™ Downloader™®*, 6 years later.
 
 # Where can I visit this lovely "downloader"?
-I host this *downloader* on both Google Sites and GitHub Pages.
+I host this *downloader* on GitHub Pages. I also have a Google Sites page for downloading the HTML locally.
 
 Google Sites page: [*sites.google.com/view/zzazzdzz-fools2015*](https://sites.google.com/view/zzazzdzz-fools2015)  
 GitHub version (downloader only): [*gamingwithevets.github.io/zzazzdzz-fools2015/shinymewdownload.htm*](https://gamingwithevets.github.io/zzazzdzz-fools2015/shinymewdownload.htm)
