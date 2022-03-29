@@ -9,6 +9,8 @@ The website was hosted through Google Drive. Unfortunately, only four months lat
 
 I, GamingWithEvets™, am a big fan of this channel and maybe cool Pokémon glitches in general, and seeing a piece of history fade away makes me sad. So I'm hosting TheZZAZZGlitch's long lost *ZZAZZ™® Super™ Epic™ Downloader™®*, 6 years later.
 
+Also, I wonder if this would become popular.
+
 # Where can I visit this lovely "downloader"?
 I host this *downloader* on GitHub Pages. I also have a Google Sites page for downloading the HTML locally.
 
