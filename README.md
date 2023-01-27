@@ -11,4 +11,4 @@ I do watch ZZAZZ's videos, and this just makes me sad. So with a little document
 Also, I wonder if this would become popular.
 
 # Where can I visit this lovely "downloader"?
-You can visit the "downloader" [here](https://gamingwithevets.github.io/zzazzdzz-fools2015).
+You can visit the "downloader" [here](https://gamingwithevets.github.io/zzazzdzz-fools2015). (note: sometimes I'll check on the site for any dead links)
